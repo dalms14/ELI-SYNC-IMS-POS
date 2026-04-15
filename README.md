@@ -13,7 +13,7 @@ A robust backend that tracks raw materials (beans, milk, syrups) in real-time. I
 
 ### **Frontend**
 * **Framework:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-* **Styling:** CSS3 / Bootstrap (or Tailwind if you're using it)
+* **Styling:** CSS3 / Tailwind
 
 ### **Backend (Service Layer)**
 * **Runtime:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
